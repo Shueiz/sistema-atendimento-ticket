@@ -56,7 +56,7 @@ O diferencial deste projeto é que **não utilizamos os métodos nativos de list
 
 Desenvolvido por Matheus Concesso Araujo Pereira
 
-LinkedIn: Seu Perfil do LinkedIn https://www.linkedin.com/in/matheus-concesso-095870301/
+LinkedIn: https://www.linkedin.com/in/matheus-concesso-095870301/
 
 Apresentação do Projeto (Vídeo): [Link em breve - Gravando...]
 
