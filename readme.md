@@ -38,7 +38,7 @@ O diferencial deste projeto é que **não utilizamos os métodos nativos de list
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/Shueiz/sistema-atendimento-ticket.git](https://github.com/Shueiz/sistema-atendimento-ticket.git)
+   git clone [https://github.com/Shueiz/sistema-atendimento-ticket.git]
 
 2. Entre na pasta do projeto:
     ```bash
