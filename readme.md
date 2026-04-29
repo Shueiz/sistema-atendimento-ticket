@@ -58,6 +58,6 @@ Desenvolvido por Matheus Concesso Araujo Pereira
 
 LinkedIn: https://www.linkedin.com/in/matheus-concesso-095870301/
 
-Apresentação do Projeto (Vídeo): [Link em breve - Gravando...]
+Apresentação do Projeto (Vídeo): https://www.linkedin.com/posts/matheus-concesso-095870301_python-estruturadedados-programaaexaeto-ugcPost-7455221956200710144-AXqv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0xJ3EBqpyJPWxL6Ze-a5aRfM3dcCr4ZQQ
 
 Projeto desenvolvido para a disciplina de Estruturas de Dados.
